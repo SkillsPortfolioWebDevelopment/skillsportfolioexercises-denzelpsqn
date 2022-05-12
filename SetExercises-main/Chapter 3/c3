@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        #X {
+            filter: invert();
+        }
+
+        #A {
+            filter: blur(5px);
+        }
+
+        #Z {
+            filter: grayscale(100%);
+        }
+    </style>
+</head>
+<body>
+    <img id="X" src="cod.jpg" alt="gaming" />
+    <p>
+        source:https://www.callofduty.com/blog/2021/04/Warzone-Season-Three-Overview-Verdansk-84
+        copyright:CALL OF DUTY
+    </p>
+    <img id="A" src="paris.jpg" alt="citylife" />
+    <p>
+        source:https://www.wallpaperflare.com/france-paris-streets-lines-perspective-city-life-flow-wallpaper-ezfbb/download/3072x768
+        copyright:FRANCE-PARIS-STREETS-LINES
+    </p>
+    <img id="Z" src="garden.jpg" alt="nature" />
+    <p>
+        source:https://www.nestle.com/sustainability/nature-environment
+        copyright:PROTECTING NATURE
+    </p>
+</body>
+</html>
