@@ -1,0 +1,32 @@
+header{
+    font-size:30px;
+    font-family:Tahoma;
+    background-color:#101639;
+    text-align:center;
+    color:white;
+
+}
+article{
+    font-size:25px;
+    color:black;
+}
+footer {
+    background-color: #8c15e9;
+    text-align: center;
+    color: white;
+    margin-top:5px;
+    font-size:small;
+}
+aside{
+    background-color:darkslateblue;
+    border:thick;
+    font-size:20px;
+    height:auto;
+    color:white;
+    font-family:Tahoma;
+}
+p{
+    font-family:Tahoma;
+    font-size:25px;
+
+}
