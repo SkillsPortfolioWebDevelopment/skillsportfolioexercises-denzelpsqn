@@ -1,0 +1,2411 @@
+#Chrizzian Dhenzhelle Pasuquin
+#HCC L4
+
+
+#AMONG US WEBSITE GAME 1
+#HTML
+#page1
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AMONG US</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">AMONG US VR</a></li>
+        <li><a href="htmlpage2.html">ROADMAP</a></li>
+        <li><a href="htmlpage3.html">PRESS KIT</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+
+    <img src="amongus.jpg" />
+
+    <h1>
+        Among Us is a party game of
+        teamwork and betrayal.
+    </h1>
+
+    <h3>Crewmates work together to complete tasks before one or more Impostors can kill everyone aboard.</h3>
+
+
+    <img src="among-us-featured.jpg"/>
+
+
+
+
+</body>
+</html>
+
+#HTML1
+#page2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AMONG US</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">AMONG US VR</a></li>
+        <li><a href="htmlpage2.html">ROADMAP</a></li>
+        <li><a href="htmlpage3.html">PRESS KIT</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+
+    <img src="amongusvr.jpg" />
+
+    <h1>
+        Among Us VR is a party game of teamwork and betrayal, coming Holiday 2022.
+    </h1>
+
+    <h3>Crewmates work together in this virtual world to complete tasks before one or more Impostors can kill everyone aboard. </h3>
+    <h3> All of the same betrayal and deceit as the original game, </h3>
+    <h3> but now in your own virtual Skeld.</h3>
+
+    
+    <h3>GAME PLAY SCREENSHOTS</h3>
+    <img src="amongusss.png" />
+
+
+    <h1>More Info</h1>
+
+    <h3>
+        Prepare for departure but beware the Impostor! Play with 4-10 players online as you attempt to hold your spaceship together and survive, but be careful.  </h3>
+        
+    <h3>  One or more random players among the crew are Impostors bent on killing everyone! </h3>  
+
+    <h3>   This first-person, 3D experience that places players in the heart of the Skeld, with all the same core mechanics from the original game. </h3>  
+
+
+
+
+
+
+</body>
+</html>
+
+
+#HTML2
+#page3
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AMONG US</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">AMONG US VR</a></li>
+        <li><a href="htmlpage2.html">ROADMAP</a></li>
+        <li><a href="htmlpage3.html">PRESS KIT</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+
+    <img src="amongusrmap.jpg" />
+
+    <h1>Among Us 2022 ROADMAP
+    </h1>
+
+    <p>
+        Happy New Year, Crewmates!! </p>
+
+    <p>    We’re excited to be back at work on our ship, and that means some exciting plans for 2022. </p>
+        
+    <p> As usual I am sworn to secrecy on the exact details, but here’s a peek at what we can talk about for now. </p>
+
+
+    <img src="amongusnewsrm.jpg" />
+
+    <p>
+        EDIT: FORGOT TO ADD MAP 5 TO THE “PLANS” SECTION LOL SORRY. THAT’S STILL COMING. </p>
+
+    <p>  Our main priority at the moment are a Friend’s List and quality of life improvements.</p>
+
+    <p>    I know I know, you’ve been asking for a Friend’s List for ages!! It’s happening!! Finally you’ll be able to keep in contact with any Crewmates you get along with … or keep tabs on your greatest enemies, </p>
+        
+    <p>   I guess? We know a ton of you have found some lifelong friendships from this game and that’s really cool – we want to allow you to keep in touch and continue playing games together! </p>
+
+    <p>   As for quality of life updates, many of you have found some of the account creation, Cosmicube redemption, chat choice, and other aspects of the game flow a bit confusing. Understandable! </p>
+        
+    <p>    You’re basically experiencing the building of Among Us and our adjustment to its popularity with us haha. That being said, confusing you isn’t the goal, </p>
+        
+    <p>    so making improvements to the UX is also coming up next. Thanks for being patient with us!
+    </p>
+
+    <p>Other things are on the horizon (like some more information about Among Us VR!), but for now, that’s what we’re up to. </p>
+    
+    <p>  You might see a bit of fun stuff popping up in the meantime, and of course, </p>
+    
+    <p> you can look forward to new content updates too. See you online!</p>
+
+    <p>Cheers,</p>
+
+    <p>Wiggle</p>
+
+
+</body>
+</html>
+
+#HTML3
+#page4
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AMONG US</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">AMONG US VR</a></li>
+        <li><a href="htmlpage2.html">ROADMAP</a></li>
+        <li><a href="htmlpage3.html">PRESS KIT</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+    <h1>Press Kit</h1>
+
+    <img src="amonguspkit.png" />
+
+    <h1>
+        Welcome!
+    </h1>
+
+    <h3>Find all the information you need about Innersloth, our games, assets, and everything else.</h3>
+
+    <h1>About Innersloth</h1>
+
+    <p>Innersloth is a small independent game studio most notable for creating Among Us and The</p>
+
+    <p>Henry Stickmin Collection. Founded by Forest Willard and Marcus Bromander in 2015, they</p>
+
+    <p>made the games they wanted to and hoped people would want to play them. After numerous</p>
+
+    <p>awards, global press coverage, and millions of downloads, Innersloth can now confirm at least 4</p>
+
+    <p>people have played their games. Nice.</p>
+
+    <p>Innersloth is mainly based around Seattle, USA, but has employees and partners all across the globe.</p>
+
+
+
+
+    <h1>History</h1>
+
+
+
+    <p>After meeting in college, Forest Willard and Marcus Bromander created Innersloth as a</p>
+
+    <p>partnership in 2015 to release Dig2China. They worked part time on several unreleased games</p>
+
+    <p>(T_T) until finally going full-time indie in late 2018 for Among Us. Marcus, best known online as</p>
+
+    <p>PuffballsUnited, is also the creator of the Henry Stickmin series on Newgrounds, which started in 2008 </p>
+
+
+
+
+
+</body>
+</html>
+
+#HTML4
+#page5
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AMONG US</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">AMONG US VR</a></li>
+        <li><a href="htmlpage2.html">ROADMAP</a></li>
+        <li><a href="htmlpage3.html">PRESS KIT</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+
+    <img src="amongusem.jpg" width="1280" height="720" />
+
+    <h1>
+        Among Us 2002 Roadmap
+    </h1>
+
+    <p>Happy New Year, Crewmates!! We’re excited to be back at</p>
+
+    <p>work on our ship, and that means some exciting plans</p>
+
+    <p>for 2022. As usual I am sworn to secrecy on the exact</p>
+
+    <p>details, but here’s a peek at what we can talk about for</p>
+
+    <p>now. EDIT: FORGOT TO ADD MAP 5 TO THE “PLANS” SECTION...</p>
+
+    <img src="amongusnewsrm.jpg" width="720" height="540" />
+
+
+
+
+</body>
+</html>
+
+
+
+#CSS
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+
+
+
+
+
+#APEX WEBSITE GAME 2
+#HTML
+#page1
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>APEX LEGENDS</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: darkred;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">ARENAS</a></li>
+        <li><a href="htmlpage2.html">BATTLE ROYALE</a></li>
+        <li><a href="htmlpage3.html">ABOUT</a></li>
+        <li><a href="htmlpage4.html">LEGENDS</a></li>
+    </ul>
+
+
+    <img src="APEX.webp" />
+
+    <h1>WELCOME TO APEX LEGENDS</h1>
+
+    <p>For PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via Origin and Steam.</p>
+
+    <h2>LET NO ONE FALL</h2>
+
+    <p>Leap into the fray and shield your squadmates in Saviors. Introducing new Legend Newcastle,
+    a knight in shining armor, a monstrous new update to Storm Point, 
+    a reworked Ranked system and more.</p>
+
+    <h3>BEYOND BATTLE ROYALE</h3>
+
+    <h4>Show 'em what you're made of in Apex Legends, a free-to-play hero shooter where contenders from across the Frontier team up to battle for glory, fame, and fortune.</h4>
+
+    <h3>Legendary Characters</h3>
+
+    <p>Explore a growing roster of powerful Legends, each with their own unique personality, strenghts, and abilities.</p>
+
+    <h3>The Ultimate Squad</h3>
+
+    <p>Choose your Legend, team up, and combine your unique skills to be the last squad standing.</p>
+
+    <h3>Strategic Combat</h3>
+
+    <p>Master and expanding asssortment of powerful weapons, unique abilities, and game-changing equipment in a variety of environments and limited-time and permanent modes.</p>
+
+
+        
+
+
+</body>
+</html>
+
+
+#HTML1
+#page2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>APEX LEGENDS</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: black;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: darkred;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">ARENAS</a></li>
+        <li><a href="htmlpage2.html">BATTLE ROYALE</a></li>
+        <li><a href="htmlpage3.html">ABOUT</a></li>
+        <li><a href="htmlpage4.html">LEGENDS</a></li>
+    </ul>
+    
+    <img src="apex-legends-arenas-.jpg" />
+
+    <h1>ARENAS</h1>
+
+    <h3>Arenas are the underground, unsanctioned fight clubs on the Arenas. Fight to the finish in this action-packed 3v3 round-based game mode.
+    Pick your loadout, and sharpen your skills on bespoke maps where there’s no room for luck.</h3>
+
+    <h2>ARENAS GAMEPLAY</h2>
+
+    <h3>It's just your squad and their squad. The team who survives, wins.</h3>
+
+    <h2>ROUND-BASED COMBAT</h2>
+
+    <h4>The first squad to win three rounds (with a two round margin) is victorious. If the squads are deadlocked in a 4-4 tie, the match goes to sudden death.</h4>
+
+    <h2>CUSTOMIZE YOUR LOADOUT</h2>
+
+    <h4>Pick your loadout each round and earn and spend Crafting Materials to improve your options between rounds. Your equipment doesn't carry over from round to round,
+    but Crafting Materials can be saved up to purchase better equipment in later rounds.</h4>
+
+    <h3>ARENAS MAP</h3>
+
+    <h4>Arenas features permanent bespoke maps like Party Crasher and Phase Runner, as well as weekly rotating maps. While each varies in size, they're designed to encourage frequent firefights and constant action.
+    No hiding and hoping someone else will do your dirty work!</h4>
+
+    <h2>PHASE RUNNER</h2>
+
+    <h2>PARTY CRASHER</h2>
+
+    <h2>WEEKLY ROTATING MAPS</h2>
+
+        
+</body>
+</html>
+
+
+#HTML2
+#page3
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>APEX LEGENDS</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: black;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: darkred;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">ARENAS</a></li>
+        <li><a href="htmlpage2.html">BATTLE ROYALE</a></li>
+        <li><a href="htmlpage3.html">ABOUT</a></li>
+        <li><a href="htmlpage4.html">LEGENDS</a></li>
+    </ul>
+
+    <img src="APEX_Legends-br.jpg" />
+
+    <h1>BATTLE ROYALE</h1>
+
+    <h3>Massive maps. 60-player matches. An ever-shrinking Ring. Will your squad win it all?</h3>
+
+    <h2>STAY INSIDE THE RING</h2>
+
+    <p>The Ring is always closing and you won't last long on the outside. As the Ring gets smaller, you'll be forced into more encounters with the remaining squads.
+    So make sure you have the right loadout to take them on.</p>
+
+    <h2>GET YOUR LOOT ON</h2>
+
+    <p>You'll drop in with basic gear. Explore the map -and Death Boxes of fallen foes- to find better equipment. If you're going to survive, you'll need it.</p>
+
+    <h2>LAST SQUAD STANDING</h2>
+
+    <p>Whether you're in Duos or Trios, the goal is the same: to be the last squad left alive. But death isn't always permanent --keep your squad in the fight with the help of Respawn Beacons.</p>
+
+    <h2>MAPS</h2>
+
+    <h4>Want to know more about the maps you'll be fighting on in the Apex Games? Get the inside scoop below.</h4>
+
+    <img src="APEX MAPS.png" />
+
+
+</body>
+</html>
+
+
+#HTML3
+#page4
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>APEX LEGENDS</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: black;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: darkred;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">ARENAS</a></li>
+        <li><a href="htmlpage2.html">BATTLE ROYALE</a></li>
+        <li><a href="htmlpage3.html">ABOUT</a></li>
+        <li><a href="htmlpage4.html">LEGENDS</a></li>
+    </ul>
+    <h1>ABOUT</h1>
+    <img src="apex-legends-mobile-about.webp" width="1000" height="700" />
+
+    <h2>Pick your character. Round up your squad. Show everyone what Legends are made of.</h2>
+
+    <h1>THE LEGENDS</h1>
+
+    <h3>
+        Choose from a lineup of outlaws, soldiers, misfits, and misanthropes, each with their own set of skills. The Apex Games welcome all comers – survive long enough,
+        and they call you a Legend.
+    </h3>
+
+    <h2>YOUR SQUAD</h2>
+
+    <p>
+        Pick your Legend and join forces with other players, combining your unique skills to form the ultimate squad.
+
+    </p>
+
+    <h1>BEYOND BATTLE ROYALE</h1>
+
+    <h3>Apex Legends is always evolving. Play in classic 60-person Battle Royale matches, 3v3 Arenas battles, and limited-time modes and takeovers!</h3>
+
+    <h2>Strategic Squad Play</h2>
+
+    <h4>Wheter you're battling ona amassive floating city in Battle Royale or dueling in close-quarters Arenas, you'll need to think fast.
+    Master your Legend's unique abilities and coordinate with your teammates to discover new tactics and powerful combinations.</h4>
+
+    <h2>Innovative Combat</h2>
+
+    <h4>Master an expanding assortment of powerful weapons and equipment. You'll need to move fast and learn the rhythms of each weapon to get the most of your arsenal.
+    Plus change it up in limited-time modes, and get ready for a boatload of new content each season.</h4>
+
+    <h2>Ever-expanding Universe</h2>
+
+    <h4>Apex Legends takes place in an immersive universe where the story continues to evolve, maps change each season, and new Legends keep joining the fight.
+    Make your mark on the Apex Games with a multitude of distinctive outfits and join the adventure!</h4>
+
+
+</body>
+</html>
+
+#HTML4
+#page5
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>APEX LEGENDS</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: black;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: darkred;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">ARENAS</a></li>
+        <li><a href="htmlpage2.html">BATTLE ROYALE</a></li>
+        <li><a href="htmlpage3.html">ABOUT</a></li>
+        <li><a href="htmlpage4.html">LEGENDS</a></li>
+    </ul>
+    <h1>MEET THE LEGENDS</h1>
+
+    <h3>
+        It takes grit, talent, and a lot of luck to become a legend. Pick your favorite and see what their unique set of skills can do for your squad.
+
+    </h3>
+    <img src="apex-legends-xd.jpg" />
+
+    <h1> ASH </h1>
+    <img src="ash.png" />
+
+    <h1>Bangalore</h1>
+    <img src="bangalore.png" />
+
+    <h1>Bloodhound</h1>
+    <img src="bloodhound.png" />
+
+    <h1>Caustic</h1>
+    <img src="caustic.png" />
+
+    <h1>Crypto</h1>
+    <img src="crypto.png" />
+
+    <h1>Fuse</h1>
+    <img src="fuse.png" />
+
+    <h1>Horizon</h1>
+    <img src="horizon.png" />
+
+    <h1>Lifeline</h1>
+    <img src="lifeline.png" />
+
+    <h1>Loba</h1>
+    <img src="loba.png" />
+
+    <h1>Mad Maggie</h1>
+    <img src="mad maggie.png" />
+
+    <h1>Mirage</h1>
+    <img src="mirage.png" />
+
+    <h1>Newcastle</h1>
+    <img src="newcastle.png" />
+
+    <h1>Octane</h1>
+    <img src="octane.png" />
+
+    <h1>Pathfinder</h1>
+    <img src="pathfinder.png" />
+
+    <h1>Octane</h1>
+    <img src="rampart.png" />
+
+    <h1>Revenant</h1>
+    <img src="revenant.png" />
+
+    <h1>Seer</h1>
+    <img src="seer.png" />
+
+    <h1>Valkyrie</h1>
+    <img src="valkyrie.png" />
+
+    <h1>Wattson</h1>
+    <img src="wattson.png" />
+
+    <h1>Wraith</h1>
+    <img src="wraith.png" />
+
+
+</body>
+</html>
+
+
+#CSS
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+
+
+#CODM WEBSITE GAME 3
+#HTML
+#page1
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: #111;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">Welcome</a></li>
+        <li><a href="htmlpage1.html">Home</a></li>
+        <li><a href="htmlpage2.html">Roadmap</a></li>
+        <li><a href="htmlpage3.html">Rules</a></li>
+        <li><a href="htmlpage4.html">More Events</a></li>
+    </ul>
+    <h1>WELCOME SOLDIERS!</h1>
+    <img src="CODM-WELCOME.jpg" width="1500" height="650" />
+</body>
+</html>
+
+
+#HTML1
+#page2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CODM World Championship 2022</title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<style>
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: #111;
+            }
+</style>
+</head>
+    <body>
+        <ul>
+            <li><a href="htmlpage.html">Welcome</a></li>
+            <li><a href="htmlpage1.html">Home</a></li>
+            <li><a href="htmlpage2.html">Roadmap</a></li>
+            <li><a href="htmlpage3.html">Rules</a></li>
+            <li><a href="htmlpage4.html">More Events</a></li>
+        </ul>
+        <h1>World Championship 2022</h1>
+        <img src="COD-Mobile-World-Championship-2022.jpg" width="1500" height="650" />
+        <p>
+            The Call of Duty: Mobile World Championship will return in 2022, and it will be available to all qualifying players worldwide.
+            There's no excuse not to compete with over $2 million in prize money on offer,
+            including $1.7 million for the World Championship Finals—the greatest single event payout in Call of Duty: Mobile World Championship history.
+
+            All qualified players are eligible to compete for in-game goodies such as new weapons and Operators,
+            as well as a piece of the prize pool. Do you have what it takes to beat the greatest at their own game?
+            Continue reading for more on how to join and see how excellent you actually are.
+        </p>
+    </body>
+</html>
+
+#HTML2
+#page3
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<style>
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: #111;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">Welcome</a></li>
+        <li><a href="htmlpage1.html">Home</a></li>
+        <li><a href="htmlpage2.html">Roadmap</a></li>
+        <li><a href="htmlpage3.html">Rules</a></li>
+        <li><a href="htmlpage4.html">More Events</a></li>
+    </ul>
+    <h1>ROADMAP FOR WORLD CHAMP 2022</h1>
+    <img src="CODM-WC-2022-ROADMAP.jpg" width="1500" height="650" style="background-color:black" />
+    <p>
+        Stage 1 and Stage 2 of the Call of Duty: Mobile World Championship 2022
+        are designed for players of all skill levels and mark the start of this epic competitive event.
+        Everyone who registers for the competition will receive a brand new Frame and Calling Card.
+
+        The World Championship will be held in many stages across the globe,
+        beginning with four open in-game qualifiers in Stage 1.
+        Eligible players who complete 10 Ranked Multiplayer matches and earn 60 points each weekend from March 31 to April 24, 2022 UTC
+        will qualify for Stage 2 and get new in-game gifts every week.
+
+        Visit www.callofduty.com/mobile/esports for more information on the stages, requirements, and official rules.
+
+        Keep an eye out for more information.
+    </p>
+</body>
+</html>
+
+
+#HTML3
+#page4
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<style>
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: #111;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">Welcome</a></li>
+        <li><a href="htmlpage1.html">Home</a></li>
+        <li><a href="htmlpage2.html">Roadmap</a></li>
+        <li><a href="htmlpage3.html">Rules</a></li>
+        <li><a href="htmlpage4.html">More Events</a></li>
+    </ul>
+    <h1>OFFICIAL RULES</h1>
+    <img src="lmgarena.jpg" width="1500" height="650" />
+    <h2>1.           INTRODUCTION</h2>
+    <p>
+        1.1           Purpose. Activision Publishing, Inc. and its affiliates (collectively, “Activision”) created the Call of Duty®: Mobile World Championship 2022 Presented by Sony (the “World Championship”) to serve as the fan-centric Call of Duty: Mobile (the “Game”) competition platform.
+        The World Championship competition consists of (i) Call of Duty: Mobile online tournaments (collectively, “CODM Online Tournaments”); and (ii) Call of Duty: Mobile LAN tournaments (“CODM LAN Tournaments”,
+        and together with the CODM Online Tournaments, the “Tournament”). These Call of Duty: Mobile World Championship Official Rules, including any updates, amendments or supplements thereto (these “Rules”) ensure the integrity of the Tournament,
+        protect the image and reputation of Call of Duty: Mobile and the Franchise, and create a consistent and high-quality experience for spectators of the Tournaments and related events.  These Rules apply to all Teams, Team Owners, Team managers, Team staff,
+        and other individuals who are actively participating in any of the Tournaments or any event related to the Tournament,
+        or plan to participate in any current or future event related to the Tournament (each, a “Participant”). Certain Tournaments may have additional rules, which will be posted to the Call of Duty: Mobile Website or provided to Participants before the applicable Tournament.
+        These Rules establish the general rules of online CODM Online Tournament play and in-person CODM LAN Tournament activities, including rules governing Participant eligibility, Tournament structure, prize awards, and Participant conduct.
+        These Rules also contain limitations of liability, license grants, and other legally binding contractual terms that affect Participant rights and obligations.
+    </p>
+    <p>
+        1.2           EACH PARTICIPANT IS REQUIRED TO READ, UNDERSTAND, AND AGREE TO THESE RULES AND ANY OTHER APPLICABLE TOURNAMENT RULES PRIOR TO, AND AS A CONDITION TO, PARTICIPATING IN A TOURNAMENT.
+        THESE RULES FORM A CONTRACT BETWEEN EACH PARTICIPANT, ON THE ONE HAND, AND ACTIVISION PUBLISHING, INC. (THE “ADMINISTRATION”), ON THE OTHER HAND.
+    </p>
+    <p>
+        1.3           THESE RULES AND ALL DISPUTES RELATED TO OR ARISING OUT OF YOUR PARTICIPATION IN THE TOURNAMENT ARE GOVERNED BY A BINDING ARBITRATION CLAUSE AND A WAIVER OF CLASS ACTION RIGHTS IN SECTION 12 AS WELL AS LIMITATIONS OF LIABILITY AND RELEASE PROVISIONS IN SECTION 10.
+        THESE CLAUSES AFFECT YOUR LEGAL RIGHTS AND REMEDIES, AND YOU SHOULD REVIEW THEM CAREFULLY BEFORE ACCEPTING THESE RULES.
+    </p>
+    <p>
+        1.4           If any provision of these Rules is or becomes illegal, invalid, or unenforceable in any jurisdiction, that shall not affect the validity or enforceability in that jurisdiction of any other provision of these Rules or the validity or enforceability in other jurisdictions of any other provision of these Rules.
+    </p>
+    <p>
+        1.5           Violation of these Rules or any other applicable rules may subject a Participant to discipline, including, but not limited to Match forfeitures, prize forfeitures, fines, disqualification/removal from current and future World Championships or other Activision events and legal claims, at the Administration’s sole discretion and as further described herein.
+    </p>
+    <p>
+        1.6           Acceptance. Each Participant must agree to these Rules to participate in the Tournament. Participants may accept these Rules by any one of the following methods:
+    </p>
+    <p>
+        ·       By signing a Tournament Participation Form either in print or digitally;
+    </p>
+    <p>
+        ·       By registration or other participant sign-up method, including in connection with the applicable Tournament platform, e.g., GameBattles or in-Game registration;
+    </p>
+    ·       By creating a Team;
+    <p>
+        ·       Accepting a match or Team invite; or
+    </p>
+    <p>
+        ·       Participating in, or owning a Team that participates in, any Tournament or any officially sanctioned match that is part of the Tournament.
+    </p>
+    <h3>2.            PARTICIPATION</h3>
+    <p>
+        2.1           Eligibility. To be able to compete as a “Player” in the Tournament, a Participant must:
+    </p>
+    <p>
+        2.1.1       be over the age of eighteen (18) prior to participating in the applicable Tournament;
+    </p>
+    <p>
+        2.1.2       reside in and compete with a Player Account associated with one of the following regions (each such region, an “Eligible Jurisdictions”):
+    </p>
+    2.1.2.1   North America:  United States, Canada, Dominican Republic, Puerto Rico, Jamaica;
+    <p>
+        2.1.2.2   Europe: Albania, Austria, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom;
+    </p>
+    2.1.2.3   LATAM: Argentina, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Paraguay, Peru, Uruguay, Venezuela;
+    <p>
+        2.1.2.4   India: India;
+    </p>
+    <p>
+        2.1.2.5   Japan: Japan;
+    </p>
+    <h4>3.            TOURNAMENT STRUCTURE</h4>
+    <p>
+        3.1           Tournament Format. The World Championship is segmented into five (5) distinct competition segments (each, a “Stage”) in which eligible Players can compete in matches in the Game (each, a “Match”) to earn CODM World Championship Tournament Points (“Points”) to qualify for subsequent Stages of the Tournaments
+        . All dates and times are subject to change in the Administration’s sole discretion.
+    </p>
+    <p>
+        3.2           Stage 1 – Open Individual Play.
+    </p>
+    <p>
+        3.2.1       Stage Format. Players will compete individually in up to ten (10) ranked Matches (each, a “Ranked Match”) to earn Points.
+    </p>
+    <p>
+        3.2.2       Game Mode. Players are not required to play any specific game mode or map to earn Points in Stage 1.
+    </p>
+    <p>
+        3.2.3       Scoring. Points are awarded to Players in Stage 1 for wins in Ranked Matches. A Player may play more than ten (10) Ranked Matches during Stage 1, but Points will only be awarded for the first ten (10) Ranked Matches played by such Player.
+        A Player will earn a different number of Points for each Match win depending on the Player’s rank in the Game.
+    </p>
+</body>
+</html>
+
+
+#HTML4
+#page5
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<style>
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: #111;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">Welcome</a></li>
+        <li><a href="htmlpage1.html">Home</a></li>
+        <li><a href="htmlpage2.html">Roadmap</a></li>
+        <li><a href="htmlpage3.html">Rules</a></li>
+        <li><a href="htmlpage4.html">More Events</a></li>
+    </ul>
+    <h1>COMING SOON</h1>
+    <img src="comingsoon.jpg" width="1500" height="650" />
+    <h2>STAY TUNED!</h2>
+
+</body>
+</html>
+
+#CSS
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #808080;
+}
+
+
+
+#POKEMON UNITE WEBSITE GAME 4
+#HTML
+#page1
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POKEMON UNITE</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+    
+    body {
+        color: white;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #9c52b5;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: darkorange;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">POKEMON</a></li>
+        <li><a href="htmlpage2.html">OVERVIEW</a></li>
+        <li><a href="htmlpage3.html">CHAMPIONSHIP</a></li>
+        <li><a href="htmlpage4.html">COMMUNITY</a></li>
+    </ul>
+    <h1></h1>
+    <img src="pokemon-unite.jpg" />
+
+</body>
+</html>
+
+
+#HTML1
+#page2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POKEMON UNITE</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: black;
+    }
+
+    h1 {
+        color: black;
+    }
+
+    h2 {
+        color: black;
+    }
+    p {
+        color: black;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #9c52b5;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: rebeccapurple;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: darkorange;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">POKEMON</a></li>
+        <li><a href="htmlpage2.html">OVERVIEW</a></li>
+        <li><a href="htmlpage3.html">CHAMPIONSHIP</a></li>
+        <li><a href="htmlpage4.html">COMMUNITY</a></li>
+    </ul>
+    <h1>POKEMON UNITE ROSTER</h1>
+    <img src="pokemon-unite-roster-.jpg" />
+    <h2>There are 35 pokemons in this roster.</h2>
+    <p> Espeon </p>
+    <p> Azumarill</p>
+    <p>Duraludon</p>
+    <p>Hoopa </p>
+    <p>Aegislash</p>
+    <p>Trevenant</p>
+    <p>Dragonite</p>
+    <p>Tsareena</p>
+    <p>Decidueye</p>
+    <p>Greedent</p>
+    <p>Sylveon</p>
+    <p>Mamoswine</p>
+    <p>Blastoise</p>
+    <p>Blissey</p>
+    <p>Gardevoir</p>
+    <p>Zeroara</p>
+    <p>Pikachu</p>
+    <p>Charizard</p>
+    <p>Snorlax</p>
+    <p>Crustle</p>
+    <p>Greninja</p>
+    <p>Eldegoss</p>
+    <p>Talonflame</p>
+    <p>Lucario</p>
+    <p>Venusaur</p>
+    <p>Mr.Mime</p>
+    <p>Slowbro</p>
+    <p>Absol</p>
+    <p>Machamp</p>
+    <p>Wigglytuff</p>
+    <p>Alolan Ninetails</p>
+    <p> Cramorant</p>
+    <p>Gengar</p>
+    <p>Garchomp</p>
+    <p>Cinderace</p>
+
+</body>
+
+</html>
+
+
+#HTML2
+#page3
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POKEMON UNITE</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: black;
+    }
+
+    h1 {
+        color: black;
+    }
+
+    h2 {
+        color: black;
+    }
+    h3 {
+        color: black;
+    }
+    h4 {
+        color: black;
+    }
+    h5 {
+        color: black;
+    }
+    p {
+        color: black;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #9c52b5;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: darkorange;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">POKEMON</a></li>
+        <li><a href="htmlpage2.html">OVERVIEW</a></li>
+        <li><a href="htmlpage3.html">CHAMPIONSHIP</a></li>
+        <li><a href="htmlpage4.html">COMMUNITY</a></li>
+    </ul>
+    <h1>OVERVIEW</h1>
+    <img src="pokemon-z.jpg" />
+    <h2>ALL ABOUNT UNITE BATTLES</h2>
+    <p>
+        A powerful energy permeates Aeos Island that makes Pokémon grow stronger and provides them with enhanced abilities.
+
+        Pokémon Trainers from around the world come here to harness the power of Aeos energy in thrilling battles.
+    </p>
+
+
+    <p>Before battle, each player chooses one Pokémon. Each Pokémon has its own strengths and weaknesses.</p>
+
+    <p>During each battle, Pokémon will experience tremendous growth and even temporarily evolve!</p>
+
+    <h3>PREPARE FOR BATTLE</h3>
+
+    <p>Players select the moves their Pokémon can potentially learn and the items it will hold in battle.</p>
+
+    <p>As the battle progresses, Pokémon will get stronger and learn a variety of new moves. Practice and discover which moves suit your playstyle the best!</p>
+
+    <h4>HELD ITEMS AND BATTLE ITEMS</h4>
+
+    <p>You can get the most out of your Pokémon by giving it up to three items to hold. There are over 15 types of held items, so find a combination that best complements your Pokémon’s moves.</p>
+
+    <p>Trainers can support their Pokémon during a battle by using battle items.</p>
+
+    <p>During battle, players defeat wild Pokémon or opposing Pokémon and collect the Aeos energy they drop.</p>
+
+    <p>
+        Then, players deposit that Aeos energy into one of their opponents’ goal zones to score points for their team. At the end of battle, the team with the most points wins!
+
+    </p>
+
+    <p>Work with your teammates to earn points and to defend your goal zones to limit your opponents’ opportunities to score.</p>
+
+    <h5>BATTLE IN STYLE</h5>
+    <p>Look out for powerful wild Legendary Pokémon that can quickly change the course of battle.</p>
+
+
+</body>
+</html>
+
+
+#HTML3
+#page4
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POKEMON UNITE</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: black;
+    }
+
+    h1 {
+        color: black;
+    }
+
+    h3 {
+        color: black;
+    }
+
+    h4 {
+        color: black;
+    }
+    p {
+        color: black;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #9c52b5;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: darkorange;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">POKEMON</a></li>
+        <li><a href="htmlpage2.html">OVERVIEW</a></li>
+        <li><a href="htmlpage3.html">CHAMPIONSHIP</a></li>
+        <li><a href="htmlpage4.html">COMMUNITY</a></li>
+    </ul>
+    <h1>2022 POKEMON UNITE CHAMPIONSHIP SERIES</h1>
+    <img src="PokemonUniteCS.jpg" />
+
+    <h3>2022 POKÉMON UNITE CHAMPIONSHIP SERIES BROADCAST SCHEDULE</h3>
+
+    <p>
+        Select matches between top teams will be broadcast each month.
+
+        See below for the upcoming schedule; each day’s broadcast will typically last between 4 and 8 hours.
+    </p>
+
+    <h4>
+        Europe/North America
+
+        May 28, 11:00am PT/ 3:00pm PT
+    </h4>
+
+    <h4>
+        South America-East/South America-West/Mexico/Central America
+        </h4>
+    <h4>
+        May 28, 4:00am PT
+        </h4>
+    <h4>
+        May 28, 12:00pm PT
+        </h4>
+
+    <h4>
+        May 28, 2:00pm PT
+
+        </h4>
+
+    <h4>
+        May 28, 4:00pm PT
+
+    </h4>
+
+    <h4>
+        Korea
+
+        May 27, 10:00pm PT
+    </h4>
+
+    <h4>
+        Japan
+
+        May 27, 10:00pm PT
+    </h4>
+
+    <p>
+        Pokémon UNITE players around the world can compete to earn an invitation to the 2022 World Championships in London, England!
+
+        The Pokémon UNITE Championship Series features qualifying events every month beginning in February in each Regional Zone and will include over $1,000,000 USD in prizes, including $500,000 at the World Championships.
+    </p>
+
+    <h1>COMPETITION FORMAT</h1>
+    <p> Players will form teams and compete 5-on-5 using Pokémon UNITE’s tournament mode. Open qualifying events will be held each month with no entry cost from February through June. Players will be able to participate using the Nintendo Switch, iOS, or Android version of Pokémon UNITE.</p>
+
+
+</body>
+</html>
+
+
+#HTML4
+#page5
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POKEMON UNITE</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: black;
+    }
+
+    h1 {
+        color: black;
+    }
+
+    h2 {
+        color: black;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #9c52b5;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: darkorange;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">POKEMON</a></li>
+        <li><a href="htmlpage2.html">OVERVIEW</a></li>
+        <li><a href="htmlpage3.html">CHAMPIONSHIP</a></li>
+        <li><a href="htmlpage4.html">COMMUNITY</a></li>
+    </ul>
+    <h1>POKEMON UNITE COMMUNITY</h1>
+    <img src="pokemon-news.jpg" />
+
+    <h2>Stay up-to-date with the latest Pokémon UNITE happenings! Follow @PokemonUnite on Twitter and YouTube.</h2>
+
+
+
+</body>
+</html>
+
+
+#CSS
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+}
+
+
+
+#VALORANT WEBSITE GAME 5
+#HTML
+#page1
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+    body {
+        color: white;
+    }
+
+    h1 {
+        color: white;
+    }
+    h2 {
+        color: white;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: #000000;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">WELCOME</a></li>
+        <li><a href="htmlpage1.html">AGENTS</a></li>
+        <li><a href="htmlpage2.html">MAPS</a></li>
+        <li><a href="htmlpage3.html">RULES</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+    <h1>VALORANT</h1>
+    <img src="valorant.jpg" />
+    <h2>A 5v5 character-based tactical shooter</h2>
+</body>
+</html>
+
+
+#HTML1
+#page2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<style>
+    body {
+        color: white;
+    }
+
+    h1 {
+        color: white;
+    }
+    h2 {color: white;
+
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: #111;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">WELCOME</a></li>
+        <li><a href="htmlpage1.html">AGENTS</a></li>
+        <li><a href="htmlpage2.html">MAPS</a></li>
+        <li><a href="htmlpage3.html">RULES</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+    <h1>AGENTS</h1>
+    <img src="valorant-agents.jpg" />
+    <h2>There are currently nineteen agents in the game: Astra, Breach, Brimstone, Chamber, Cypher, Jett, Kay/O, Killjoy, Neon, 
+    Omen, Phoenix, Raze, Reyna, Sage, Skye, Sova, Viper, Yoru and Fade Each agent has four unique abilities (including one ultimate). </h2>
+
+</body>
+</html>
+
+
+#HTML2
+#page3
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<style>
+    body {
+        color: white;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: #111;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">WELCOME</a></li>
+        <li><a href="htmlpage1.html">AGENTS</a></li>
+        <li><a href="htmlpage2.html">MAPS</a></li>
+        <li><a href="htmlpage3.html">RULES</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+    <h1>MAPS</h1>
+    <img src="Valorant-Maps.webp" />
+    <h2>The seven playable maps are called Bind, Haven, Split, Ascent, Icebox, Breeze and Fracture (NEW). There is also a shooting range where you can sharpen your aim or practice simulated situations like defending a spike you planted.
+    Each map also has two ultimate orbs in neutral locations that teams can try to grab.</h2>
+
+</body>
+</html>
+
+#HTML3
+#page4
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<style>
+    body {
+        color: white;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: #111;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">WELCOME</a></li>
+        <li><a href="htmlpage1.html">AGENTS</a></li>
+        <li><a href="htmlpage2.html">MAPS</a></li>
+        <li><a href="htmlpage3.html">RULES</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+    <h1>MAPS</h1>
+
+    <img src="Valo-rules.jpg" width="1500" height="650" />
+
+    <h2>
+
+        How do you play Valorant Competitively?
+
+    </h2>
+
+    <p>
+        Once the patch is live, new players will need to reach account level 20 before they can queue for competitive games .
+        Previously, you only had to win 10 unranked matches before you could take part in competitive matchmaking.
+    </p>
+    <h3>What is the goal of Valorant?</h3>
+
+    <p>
+        Attacking teams are trying to plant the spike, so defeating all the enemies does mean they win the round.
+        But defending teams can still lose rounds even after killing their opponents, if they don't defuse the spike in time.
+    </p>
+
+
+</body>
+</html>
+
+#HTML4
+#page5
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+</head>
+<style>
+    body {
+        color: white;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: #111;
+            }
+</style>
+
+<body>
+    <ul>
+        <li><a href="htmlpage.html">WELCOME</a></li>
+        <li><a href="htmlpage1.html">AGENTS</a></li>
+        <li><a href="htmlpage2.html">MAPS</a></li>
+        <li><a href="htmlpage3.html">RULES</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+
+    </ul>
+
+    <h1>NEWS</h1>
+
+    <img src="valorant-fade.webp" />
+
+    <h2>Fade is the new agent in Valorant.</h2>
+    <p>Check https://playvalorant.com/en-gb/ for more details.</p>
+</body>
+</html>
+
+
+#CSS
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #000000;
+}
