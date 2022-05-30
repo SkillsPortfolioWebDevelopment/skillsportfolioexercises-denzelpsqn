@@ -1,0 +1,563 @@
+#Chrizzian Dhenzhelle Pasuquin
+#HCC L4
+
+#HTML
+#page1
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AMONG US</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">AMONG US VR</a></li>
+        <li><a href="htmlpage2.html">ROADMAP</a></li>
+        <li><a href="htmlpage3.html">PRESS KIT</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+
+    <img src="amongus.jpg" />
+
+    <h1>
+        Among Us is a party game of
+        teamwork and betrayal.
+    </h1>
+
+    <h3>Crewmates work together to complete tasks before one or more Impostors can kill everyone aboard.</h3>
+
+
+    <img src="among-us-featured.jpg"/>
+
+
+
+
+</body>
+</html>
+
+#HTML1
+#page2
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AMONG US</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">AMONG US VR</a></li>
+        <li><a href="htmlpage2.html">ROADMAP</a></li>
+        <li><a href="htmlpage3.html">PRESS KIT</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+
+    <img src="amongusvr.jpg" />
+
+    <h1>
+        Among Us VR is a party game of teamwork and betrayal, coming Holiday 2022.
+    </h1>
+
+    <h3>Crewmates work together in this virtual world to complete tasks before one or more Impostors can kill everyone aboard. </h3>
+    <h3> All of the same betrayal and deceit as the original game, </h3>
+    <h3> but now in your own virtual Skeld.</h3>
+
+    
+    <h3>GAME PLAY SCREENSHOTS</h3>
+    <img src="amongusss.png" />
+
+
+    <h1>More Info</h1>
+
+    <h3>
+        Prepare for departure but beware the Impostor! Play with 4-10 players online as you attempt to hold your spaceship together and survive, but be careful.  </h3>
+        
+    <h3>  One or more random players among the crew are Impostors bent on killing everyone! </h3>  
+
+    <h3>   This first-person, 3D experience that places players in the heart of the Skeld, with all the same core mechanics from the original game. </h3>  
+
+
+
+
+
+
+</body>
+</html>
+
+
+#HTML2
+#page3
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AMONG US</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">AMONG US VR</a></li>
+        <li><a href="htmlpage2.html">ROADMAP</a></li>
+        <li><a href="htmlpage3.html">PRESS KIT</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+
+    <img src="amongusrmap.jpg" />
+
+    <h1>Among Us 2022 ROADMAP
+    </h1>
+
+    <p>
+        Happy New Year, Crewmates!! </p>
+
+    <p>    We’re excited to be back at work on our ship, and that means some exciting plans for 2022. </p>
+        
+    <p> As usual I am sworn to secrecy on the exact details, but here’s a peek at what we can talk about for now. </p>
+
+
+    <img src="amongusnewsrm.jpg" />
+
+    <p>
+        EDIT: FORGOT TO ADD MAP 5 TO THE “PLANS” SECTION LOL SORRY. THAT’S STILL COMING. </p>
+
+    <p>  Our main priority at the moment are a Friend’s List and quality of life improvements.</p>
+
+    <p>    I know I know, you’ve been asking for a Friend’s List for ages!! It’s happening!! Finally you’ll be able to keep in contact with any Crewmates you get along with … or keep tabs on your greatest enemies, </p>
+        
+    <p>   I guess? We know a ton of you have found some lifelong friendships from this game and that’s really cool – we want to allow you to keep in touch and continue playing games together! </p>
+
+    <p>   As for quality of life updates, many of you have found some of the account creation, Cosmicube redemption, chat choice, and other aspects of the game flow a bit confusing. Understandable! </p>
+        
+    <p>    You’re basically experiencing the building of Among Us and our adjustment to its popularity with us haha. That being said, confusing you isn’t the goal, </p>
+        
+    <p>    so making improvements to the UX is also coming up next. Thanks for being patient with us!
+    </p>
+
+    <p>Other things are on the horizon (like some more information about Among Us VR!), but for now, that’s what we’re up to. </p>
+    
+    <p>  You might see a bit of fun stuff popping up in the meantime, and of course, </p>
+    
+    <p> you can look forward to new content updates too. See you online!</p>
+
+    <p>Cheers,</p>
+
+    <p>Wiggle</p>
+
+
+</body>
+</html>
+
+#HTML3
+#page4
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AMONG US</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">AMONG US VR</a></li>
+        <li><a href="htmlpage2.html">ROADMAP</a></li>
+        <li><a href="htmlpage3.html">PRESS KIT</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+    <h1>Press Kit</h1>
+
+    <img src="amonguspkit.png" />
+
+    <h1>
+        Welcome!
+    </h1>
+
+    <h3>Find all the information you need about Innersloth, our games, assets, and everything else.</h3>
+
+    <h1>About Innersloth</h1>
+
+    <p>Innersloth is a small independent game studio most notable for creating Among Us and The</p>
+
+    <p>Henry Stickmin Collection. Founded by Forest Willard and Marcus Bromander in 2015, they</p>
+
+    <p>made the games they wanted to and hoped people would want to play them. After numerous</p>
+
+    <p>awards, global press coverage, and millions of downloads, Innersloth can now confirm at least 4</p>
+
+    <p>people have played their games. Nice.</p>
+
+    <p>Innersloth is mainly based around Seattle, USA, but has employees and partners all across the globe.</p>
+
+
+
+
+    <h1>History</h1>
+
+
+
+    <p>After meeting in college, Forest Willard and Marcus Bromander created Innersloth as a</p>
+
+    <p>partnership in 2015 to release Dig2China. They worked part time on several unreleased games</p>
+
+    <p>(T_T) until finally going full-time indie in late 2018 for Among Us. Marcus, best known online as</p>
+
+    <p>PuffballsUnited, is also the creator of the Henry Stickmin series on Newgrounds, which started in 2008 </p>
+
+
+
+
+
+</body>
+</html>
+
+#HTML4
+#page5
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AMONG US</title>
+
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <style>
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<style>
+
+    body {
+        color: red;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    h2 {
+        color: white;
+    }
+
+    h3 {
+        color: white;
+    }
+
+    h4 {
+        color: white;
+    }
+
+    p {
+        color: white;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+    }
+
+    li {
+        float: left;
+    }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            li a:hover {
+                background-color: black;
+            }
+</style>
+<body>
+    <ul>
+        <li><a href="htmlpage.html">HOME</a></li>
+        <li><a href="htmlpage1.html">AMONG US VR</a></li>
+        <li><a href="htmlpage2.html">ROADMAP</a></li>
+        <li><a href="htmlpage3.html">PRESS KIT</a></li>
+        <li><a href="htmlpage4.html">NEWS</a></li>
+    </ul>
+
+
+    <img src="amongusem.jpg" width="1280" height="720" />
+
+    <h1>
+        Among Us 2002 Roadmap
+    </h1>
+
+    <p>Happy New Year, Crewmates!! We’re excited to be back at</p>
+
+    <p>work on our ship, and that means some exciting plans</p>
+
+    <p>for 2022. As usual I am sworn to secrecy on the exact</p>
+
+    <p>details, but here’s a peek at what we can talk about for</p>
+
+    <p>now. EDIT: FORGOT TO ADD MAP 5 TO THE “PLANS” SECTION...</p>
+
+    <img src="amongusnewsrm.jpg" width="720" height="540" />
+
+
+
+
+</body>
+</html>
+
+
+
+#CSS
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
